@@ -1,0 +1,25 @@
+img{
+    width:300px;
+    text-align:center;
+    
+}
+.picture{
+    display:flex;
+    justify-content:center;
+}
+h1{
+    text-align:center;
+    color:white;
+}
+p{
+    color:white;
+    text-align:center;
+}
+.container{
+    display:flex;
+    justify-content:center;
+    height:150px; 
+    
+    margin:auto;
+    
+}
